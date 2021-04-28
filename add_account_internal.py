@@ -12,7 +12,7 @@ new_account_request= dict(
         login=dict(
             federatedPlatform=None,
             federatedToken=None,
-            email=b2a_base64(b"yangyangyy@outlook.com").decode(),
+            email=b2a_base64(b"test@outlook.com").decode(),
             password=b2a_base64(b"nustest").decode(),
         ),
     )
