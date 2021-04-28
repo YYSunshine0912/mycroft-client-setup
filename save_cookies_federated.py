@@ -19,7 +19,7 @@ REFRESH_TOKEN_COOKIE_KEY = 'seleneRefresh'
 
 #Step 3 run this 'test_federated_github.py' then it can implement federated login using github account
 
-github_token='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'
+github_token=''
 
    
 
