@@ -12,13 +12,6 @@ ACCESS_TOKEN_COOKIE_KEY = 'seleneAccess'
 REFRESH_TOKEN_COOKIE_KEY = 'seleneRefresh'
 
 
-#Step 1 manually enter the URL below to get the github token in browser
-#https://github.com/login/oauth/authorize?scope=user:email&client_id=0d6cc5d42fb4158ccaba&state=1
-
-#Step 2 enter the latest token which is got in step1 in 'github_token' variable
-
-#Step 3 run this 'test_federated_github.py' then it can implement federated login using github account
-
 github_token=''
 
    
