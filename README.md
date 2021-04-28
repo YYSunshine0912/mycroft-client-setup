@@ -3,7 +3,7 @@ Mycroft Client Setup
 
 
 ## About 
-After run the python codes, it can make Mycroft-core connect the personal selene server.
+The python codes to make Mycroft-core connect to the personal selene server.
 
 
 
